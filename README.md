@@ -1,1 +1,6 @@
 # DailyNote
+
+## Stock
+
+
+## Company Info
