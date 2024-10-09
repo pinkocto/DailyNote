@@ -29,3 +29,10 @@
 | 24   | 2016             | Integrated visual analysis of patterns in time series and text data - workflow and application.     | Wanner et al. [WS+16]              |       $\star$               |
 
 ## Company Info
+|   No. |   Publication date | Title                                                                                                                | Authors           | Relevance Score   |
+|------:|-------------------:|:---------------------------------------------------------------------------------------------------------------------|:------------------|:------------------|
+|     1 |               2002 | Assessing the feasibility of self organizing maps for data mining financial information.                             | Eklund02[EBVV02]  |                   |
+|     2 |               2005 | Importance-driven visualization layouts for large time series data.                                                  | Hao05|HDK05       |                   |
+|     3 |               2005 | Interactive visualization of high dimensional marketing data in the financial industry.                              | Smeulders05[SH05] |                   |
+|     4 |               2008 | Visualization of financial trends using change discovery methods.                                                    | Chiu08[CHC08]     |                   |
+|     5 |               2012 | Marketanalyzer: An interactive visual analytics system for analyzing competitive advantage using point of sale data. | Ko12[KMJE12]      |                   |
