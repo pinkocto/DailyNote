@@ -3,20 +3,20 @@
 ## Stock
 | No.  | Publication date | Title                                                                                              | Authors                            | Relevance Score   |
 |------|------------------|----------------------------------------------------------------------------------------------------|------------------------------------|----------------------|
-| 1    | 1992             | Adapting treemaps to stock portfolio visualization.                                                | Jungmeister and Turo [JT92]        |                     |
-| 2    | 1996             | Circle segments: A technique for visually exploring large multidimensional data sets.              | Ankerst et al. [AKpK96]            |                      |
-| 3    | 1999             | Visualizing the stock market.                                                                      | Wattenberg [Wat99]                 |                      |
-| 4    | 2001             | Visualizing time-varying correlations across stock markets.                                         | Groenen and Franses [GF00]         |                      |
-| 5    | 2003             | Visualization of stock market charts.                                                              | Simunic [Sim03]                    |                      |
-| 6    | 2003             | Bimodal visualization: A financial trading case study.                                              | Taskaya and Atkinson [TA03]        |                      |
-| 7    | 2004             | Visualizing changes in fund manager holdings in two and a half-dimensions.                          | Dwyer and Gough [DG04]             |                      |
-| 8    | 2004             | Using manyeyes to represent financial data.                                                        | Shen and Eades [SE04]              |                      |
-| 9    | 2005             | Importance-driven visualization layouts for large time series data.                                | Hao et al. [HDKS05]                |                      |
-| 10   | 2006             | Regular treemap layouts for visual analysis of hierarchical data.                                   | Schreck et al. [SHMK06]            |                      |
-| 11   | 2007             | Trajectory-based visual analysis of large financial time series data.                               | Schreck et al. [STKFT07]           |                      |
-| 12   | 2007             | Applying animation to the visual analysis of financial time-dependent data.                         | Teikuusvorn and Kohlhammer [TK07]  |                      |
-| 13   | 2008             | Nasdaq velocity and forces: An interactive visualization of activity and change.                    | Dao et al. [DBBS08]                |                      |
-| 14   | 2009             | A visualization approach for frauds detection in financial market.                                  | Huang et al. [HLN09]               |                      |
+| 1    | 1992             | Adapting treemaps to stock portfolio visualization.                                                | Jungmeister and Turo [JT92]        |$\star$               |
+| 2    | 1996             | Circle segments: A technique for visually exploring large multidimensional data sets.              | Ankerst et al. [AKpK96]            |$\star$                |
+| 3    | 1999             | Visualizing the stock market.                                                                      | Wattenberg [Wat99]                 |$\star$                      |
+| 4    | 2001             | Visualizing time-varying correlations across stock markets.                                         | Groenen and Franses [GF00]         |      $\star$                |
+| 5    | 2003             | Visualization of stock market charts.                                                              | Simunic [Sim03]                    |   $\star$                    |
+| 6    | 2003             | Bimodal visualization: A financial trading case study.                                              | Taskaya and Atkinson [TA03]        |  $\star$                    |
+| 7    | 2004             | Visualizing changes in fund manager holdings in two and a half-dimensions.                          | Dwyer and Gough [DG04]             |  $\star$                    |
+| 8    | 2004             | Using manyeyes to represent financial data.                                                        | Shen and Eades [SE04]              |   $\star$                   |
+| 9    | 2005             | Importance-driven visualization layouts for large time series data.                                | Hao et al. [HDKS05]                |   $\star$                   |
+| 10   | 2006             | Regular treemap layouts for visual analysis of hierarchical data.                                   | Schreck et al. [SHMK06]            |   $\star$                   |
+| 11   | 2007             | Trajectory-based visual analysis of large financial time series data.                               | Schreck et al. [STKFT07]           |   $\star$                   |
+| 12   | 2007             | Applying animation to the visual analysis of financial time-dependent data.                         | Teikuusvorn and Kohlhammer [TK07]  |    $\star$                  |
+| 13   | 2008             | Nasdaq velocity and forces: An interactive visualization of activity and change.                    | Dao et al. [DBBS08]                |    $\star$                  |
+| 14   | 2009             | A visualization approach for frauds detection in financial market.                                  | Huang et al. [HLN09]               |    $\star$                  |
 | 15   | 2009             | Stockviz: Analyzing the trend of stocks in major auto, oil, consumer, and technology companies.      | Sawant [Saw09]                     |      $\star$                |
 | 16   | 2009             | Visual cluster analysis of trajectory data with interactive kohonen maps.                           | Schreck et al. [SBVLK09]           |           $\star$           |
 | 17   | 2010             | A visual analytics system for financial time-series data.                                           | Lei and Zhang [LZ10]               |           ?           |
