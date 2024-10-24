@@ -19,7 +19,7 @@
 | 14   | 2009             | A visualization approach for frauds detection in financial market.                                  | Huang et al. [HLN09]               |    $\star$                  |
 | 15   | 2009             | Stockviz: Analyzing the trend of stocks in major auto, oil, consumer, and technology companies.      | Sawant [Saw09]                     |      $\star$                |
 | 16   | 2009             | Visual cluster analysis of trajectory data with interactive kohonen maps.                           | Schreck et al. [SBVLK09]           |           $\star$           |
-| 17   | 2010             | A visual analytics system for financial time-series data.                                           | Lei and Zhang [LZ10]               |           ?           |
+| 17   | 2010             | A visual analytics system for financial time-series data.                                           | Lei and Zhang [LZ10]               |           $\star$           |
 | 18   | 2010             | Financial markets in motion: Visualizing stock price and news interactions during the 2008 crisis.  | Wu and Phillips [WP10]             |          $\star$            |
 | 19   | 2010             | Visual market sector analysis for financial time series data.                                       | Ziegler et al. [ZGK10]             |         $\star$             |
 | 20   | 2011             | Visual signatures for financial time series.                                                       | Lei and Zhang [LZ11]               |         $\star$             |
@@ -36,3 +36,21 @@
 |     3 |               2005 | Interactive visualization of high dimensional marketing data in the financial industry.                              | Smeulders05[SH05] |                   |
 |     4 |               2008 | Visualization of financial trends using change discovery methods.                                                    | Chiu08[CHC08]     | $\star\star\star$ |
 |     5 |               2012 | Marketanalyzer: An interactive visual analytics system for analyzing competitive advantage using point of sale data. | Ko12[KMJE12]      |                   |
+
+
+## 전자공시시스템 관련 논문
+> **keyword1** : `"전자공시시스템" AND "python"`
+
+|   No. |   Publication date | Title                                                                                                                | Authors           | Relevance Score   |
+|------:|-------------------:|:---------------------------------------------------------------------------------------------------------------------|:------------------|:------------------|
+|     1 |               2022 | [파이썬을 이용한 기업 재무제표 수집 및 데이터베이스 설계 및 구현에 관한 연구](#no1)| 엄태선, 유성준, 구영현 |$\star$|
+|     2 |               2015 | [전자공시시스템(DART)을 활용한 국내 텍스트 분석(Textual Analysis) 환경에 관한 연구](#no2) | 김형준, 박종원, 이재원 |$\star\star\star$|
+
+
+
+## 재무제표 관련 논문
+> ***keyword2*** : "financial statements" AND "visualization"
+
+| No. | Publication date | Title | Authors | Relevance Score|
+|------:|-------------------:|:---------------------------------------------------------------------------------------------------------------------|:------------------|:------------------|
+|     3 |               2015 | [Data Visualization Application for Analyzing Public Company Financial Statement](#k2-no1)| AA Khalil, A Reza, PA Junaedi, B Kanigoro |$\star\star\star$|
